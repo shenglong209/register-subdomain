@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "shenglong209",
+        "email": "sheng@is-a-good.dev"
+    },
+    "target": {
+        "CNAME": {
+            "name": "sheng",
+            "value": "sheng.github.io"
+        }
+    },
+    "proxied": false
+}
